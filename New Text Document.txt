@@ -1,0 +1,86 @@
+name
+high eduaction
+technical skill  .dotnet ,
+hobby
+fav cort of life
+
+creating new project through cmd - (dotnet new console) //this is the command  for new project
+Dotnet test for xunit testing command (from Cmd console)
+dotnet add  package xunit
+dotnet add reference  
+
+
+
+
+
+object orinated programming
+
+class and object
+constructor and destructor
+inheritence
+a.single ,multiple,multileveal,heirarchial,hybrid
+   multiple replace with interfae
+plymorphisam
+a.compile plymorphisam
+b.runtime polymorphisam
+
+
+class- collection of datamember /business entities and number functions
+  acess modifier/specifier
+privated ,protected ,public 
+
+
+method parameter:
+"THIS " POINTER --> is used for amniguity to call vriable in method parameter
+
+
+function with parameter and return type:
+
+
+
+wap to add ,sub,multiply 2 numbers using class and object.
+function with return type
+
+
+
+How to create array of object 
+
+
+
+cmd
+
+cd c:\Users\vivek.panday\Documents\
+pwd
+ | pipe
+
+
+----pwd | clip for copy the path
+
+get -Services windows"
+gsv wuauserv 
+
+gsv wuauserv |Start-Service
+History for all command wheatever u typed
+
+get-History / history
+
+ipconfig
+
+ipconfig | Out-File ip.txt
+
+ii .   for open where located file
+
+
+\\webcetera.office\files  --network of webcetera
+
+
+
+
+
+
+
+
+
+
+
+
